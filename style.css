@@ -1,0 +1,22 @@
+.heading {
+  background-color: brown;
+  border-radius: 10px;
+  border: rgb(241, 202, 150) 3px solid;
+  width: 90%;
+  padding: 10px;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: black;
+}
+canvas {
+  border-radius: 30px;
+  border: rgb(241, 202, 150) double 5px;
+  margin-top: 200px;
+}
+.datadiv{
+  border: rgb(233, 172, 93) double 5px;
+  border-radius: 20px;
+  width: 200px;
+  margin-top: 10px;
+}
